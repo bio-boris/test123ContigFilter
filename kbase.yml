@@ -1,0 +1,15 @@
+module-name:
+    bsadkhintest123ContigFilter
+
+module-description:
+    A KBase module
+
+service-language:
+    python
+
+module-version:
+    0.0.1
+
+owners:
+    [bsadkhintest123]
+
